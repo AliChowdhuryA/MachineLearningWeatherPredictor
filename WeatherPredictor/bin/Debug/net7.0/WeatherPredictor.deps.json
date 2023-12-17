@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WeatherPredictor/1.0.0": {
+        "runtime": {
+          "WeatherPredictor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherPredictor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
