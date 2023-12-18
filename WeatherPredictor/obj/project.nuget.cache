@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ATghLAaJmKaXoUTrWIWHIbNyVUXcAsQnL5X7osvNtETtjCiUAOYo+30OQeTfLpLN3HI7BNXvfZv4GZHiSPMSQA==",
+  "dgSpecHash": "EzrXzaQhTFHG3j6xkgcLo3oI/iy3Rm7FS6Vw0pxLeoPcBTGS9zr/PMx4Gun7ewDQfqxjwvRno1xYbRxOxpdCxQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ReactNative\\Vimage\\MachineLearningWeatherPredictor\\WeatherPredictor\\WeatherPredictor.csproj",
+  "projectFilePath": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/WeatherPredictor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

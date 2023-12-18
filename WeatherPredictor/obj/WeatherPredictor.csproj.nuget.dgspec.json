@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ReactNative\\Vimage\\MachineLearningWeatherPredictor\\WeatherPredictor\\WeatherPredictor.csproj": {}
+    "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/WeatherPredictor.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ReactNative\\Vimage\\MachineLearningWeatherPredictor\\WeatherPredictor\\WeatherPredictor.csproj": {
+    "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/WeatherPredictor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ReactNative\\Vimage\\MachineLearningWeatherPredictor\\WeatherPredictor\\WeatherPredictor.csproj",
+        "projectUniqueName": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/WeatherPredictor.csproj",
         "projectName": "WeatherPredictor",
-        "projectPath": "D:\\Projects\\ReactNative\\Vimage\\MachineLearningWeatherPredictor\\WeatherPredictor\\WeatherPredictor.csproj",
-        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ReactNative\\Vimage\\MachineLearningWeatherPredictor\\WeatherPredictor\\obj\\",
+        "projectPath": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/WeatherPredictor.csproj",
+        "packagesPath": "/Users/alic/.nuget/packages/",
+        "outputPath": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alic/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

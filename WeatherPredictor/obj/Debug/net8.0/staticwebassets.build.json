@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/bXsb7Aw9VGG6w+WdBL2chXMnBMA/ccnhalAxLcbNcQ=",
+  "Hash": "vJ41x5a2Id6sUVLfcI0nJ9lyUvcJs7Zeka31H+6S8is=",
   "Source": "WeatherPredictor",
   "BasePath": "_content/WeatherPredictor",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net7.0/scopedcss/bundle/WeatherPredictor.styles.css",
+      "Identity": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net8.0/scopedcss/bundle/WeatherPredictor.styles.css",
       "SourceId": "WeatherPredictor",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/WeatherPredictor",
       "RelativePath": "WeatherPredictor.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net7.0/scopedcss/bundle/WeatherPredictor.styles.css"
+      "OriginalItemSpec": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net8.0/scopedcss/bundle/WeatherPredictor.styles.css"
     },
     {
-      "Identity": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net7.0/scopedcss/projectbundle/WeatherPredictor.bundle.scp.css",
+      "Identity": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net8.0/scopedcss/projectbundle/WeatherPredictor.bundle.scp.css",
       "SourceId": "WeatherPredictor",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/WeatherPredictor",
       "RelativePath": "WeatherPredictor.bundle.scp.css",
       "AssetKind": "All",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net7.0/scopedcss/projectbundle/WeatherPredictor.bundle.scp.css"
+      "OriginalItemSpec": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net8.0/scopedcss/projectbundle/WeatherPredictor.bundle.scp.css"
     },
     {
       "Identity": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/wwwroot/css/site.css",

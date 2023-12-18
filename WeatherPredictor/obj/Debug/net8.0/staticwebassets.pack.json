@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net7.0/scopedcss/projectbundle/WeatherPredictor.bundle.scp.css",
+      "Id": "/Users/alic/Documents/GitHub/MachineLearningWeatherPredictor/WeatherPredictor/obj/Debug/net8.0/scopedcss/projectbundle/WeatherPredictor.bundle.scp.css",
       "PackagePath": "staticwebassets/WeatherPredictor.bundle.scp.css"
     },
     {
@@ -153,19 +153,19 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.WeatherPredictor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WeatherPredictor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.WeatherPredictor.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WeatherPredictor.props",
       "PackagePath": "build\\WeatherPredictor.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WeatherPredictor.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WeatherPredictor.props",
       "PackagePath": "buildMultiTargeting\\WeatherPredictor.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WeatherPredictor.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WeatherPredictor.props",
       "PackagePath": "buildTransitive\\WeatherPredictor.props"
     }
   ],
