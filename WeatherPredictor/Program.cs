@@ -3,7 +3,8 @@ using System.Text.Json;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddHttpClient<WeatherService>();
+builder.Services.AddRazorPages();
+//builder.Services.AddHttpClient<WeatherService>();
 
 var app = builder.Build();
 
